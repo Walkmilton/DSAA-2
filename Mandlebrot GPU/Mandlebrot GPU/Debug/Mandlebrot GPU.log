@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\declan doyle\desktop\dsaa 2 coursework\mandlebrot gpu\mandlebrot gpu\source.cpp(138): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\declan doyle\desktop\dsaa 2 coursework\mandlebrot gpu\mandlebrot gpu\source.cpp(139): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Mandlebrot GPU.vcxproj -> C:\Users\Declan Doyle\Desktop\DSAA 2 Coursework\Mandlebrot GPU\Mandlebrot GPU\Debug\Mandlebrot GPU.exe
+  Mandlebrot GPU.vcxproj -> C:\Users\Declan Doyle\Desktop\DSAA 2 Coursework\Mandlebrot GPU\Mandlebrot GPU\Debug\Mandlebrot GPU.pdb (Partial PDB)

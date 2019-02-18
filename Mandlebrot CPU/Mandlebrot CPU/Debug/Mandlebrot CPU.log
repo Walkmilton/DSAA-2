@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\declan doyle\desktop\dsaa 2 coursework\mandlebrot cpu\mandlebrot cpu\source.cpp(93): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Mandlebrot CPU.vcxproj -> C:\Users\Declan Doyle\Desktop\DSAA 2 Coursework\Mandlebrot CPU\Mandlebrot CPU\Debug\Mandlebrot CPU.exe
+  Mandlebrot CPU.vcxproj -> C:\Users\Declan Doyle\Desktop\DSAA 2 Coursework\Mandlebrot CPU\Mandlebrot CPU\Debug\Mandlebrot CPU.pdb (Partial PDB)

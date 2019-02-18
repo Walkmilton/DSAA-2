@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\declan doyle\desktop\dsaa 2 coursework\mandlebrot\mandlebrot\main.cpp(146): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\declan doyle\desktop\dsaa 2 coursework\mandlebrot\mandlebrot\main.cpp(295): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\declan doyle\desktop\dsaa 2 coursework\mandlebrot\mandlebrot\main.cpp(296): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Mandlebrot.vcxproj -> C:\Users\Declan Doyle\Desktop\DSAA 2 Coursework\Mandlebrot\Debug\Mandlebrot.exe
+  Mandlebrot.vcxproj -> C:\Users\Declan Doyle\Desktop\DSAA 2 Coursework\Mandlebrot\Debug\Mandlebrot.pdb (Partial PDB)

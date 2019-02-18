@@ -1,0 +1,11 @@
+﻿  main.cpp
+main.cpp(151): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(303): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(304): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  11 of 413 functions ( 2.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Mandlebrot.vcxproj -> C:\Users\Declan Doyle\Desktop\DSAA 2 Coursework\Mandlebrot\Release\Mandlebrot.exe
+  Mandlebrot.vcxproj -> C:\Users\Declan Doyle\Desktop\DSAA 2 Coursework\Mandlebrot\Release\Mandlebrot.pdb (Full PDB)
